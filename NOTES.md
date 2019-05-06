@@ -86,4 +86,10 @@ Setup Automatic Server Updates with TS-Node & NodeMon
 Testing Sites
 -------------
 
-- 
+- [nixcraft][10] 
+
+References
+----------
+
+- [nixcraft - Bash Shell See All Exported Variables and Functions][10]
+[10]: https://www.cyberciti.biz/faq/linux-unix-bash-shell-see-all-exported-variables-and-functions/ "nixcraft - Bash Shell See All Exported Variables and Functions"
