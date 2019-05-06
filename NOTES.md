@@ -82,14 +82,30 @@ Setup Automatic Server Updates with TS-Node & NodeMon
 // ...
 ```
 
+Axios & Cheerio for the Bulk of Scraping Work
+---------------------------------------------
+
+- `yarn add axios cheerio && yarn add -D @types/cheerio`
+    - axios has types in its regular repo
+    - cheerio has a repo exported from the definitely typed monorepo 
+
+
+
 
 Testing Sites
 -------------
 
-- [nixcraft][10] 
+- [Medium - A refeerence to this project][10]
+- [nixcraft][11] 
+- [traefic docs][12]
 
 References
 ----------
 
-- [nixcraft - Bash Shell See All Exported Variables and Functions][10]
-[10]: https://www.cyberciti.biz/faq/linux-unix-bash-shell-see-all-exported-variables-and-functions/ "nixcraft - Bash Shell See All Exported Variables and Functions"
+- [Medium - Bitsrc - Perform Web Scraping on Node][10]
+- [nixcraft - Bash Shell See All Exported Variables and Functions][11]
+- [Traefik Docs - Overview][12]
+
+[10]: https://blog.bitsrc.io/https-blog-bitsrc-io-how-to-perform-web-scraping-using-node-js-5a96203cb7cb "Medium - Bitsrc - Perform Web Scraping on Node"
+[11]: https://www.cyberciti.biz/faq/linux-unix-bash-shell-see-all-exported-variables-and-functions/ "nixcraft - Bash Shell See All Exported Variables and Functions"
+[12]: https://docs.traefik.io/ "Traefik Docs - Overview"
